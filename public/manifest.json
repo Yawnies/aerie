@@ -1,0 +1,20 @@
+{
+  "short_name": "Aerie",
+  "name": "Aerie",
+  "icons": [
+    {
+      "src": "aerie.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "aerie.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
