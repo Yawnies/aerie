@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/aerie/static/css/main.10c25061.css",
-    "main.js": "/aerie/static/js/main.2feb76b3.js",
+    "main.js": "/aerie/static/js/main.cb55a1ae.js",
     "static/media/lines.svg": "/aerie/static/media/lines.57867dbb9b5d22922b1a.svg",
     "static/media/logo.svg": "/aerie/static/media/logo.e2f16ae90d5f8fec42661d2e28a3a464.svg",
     "static/media/textlogo.svg": "/aerie/static/media/textlogo.983015aa172da4a82ca6b40afbf5fd67.svg",
     "index.html": "/aerie/index.html",
     "main.10c25061.css.map": "/aerie/static/css/main.10c25061.css.map",
-    "main.2feb76b3.js.map": "/aerie/static/js/main.2feb76b3.js.map"
+    "main.cb55a1ae.js.map": "/aerie/static/js/main.cb55a1ae.js.map"
   },
   "entrypoints": [
     "static/css/main.10c25061.css",
-    "static/js/main.2feb76b3.js"
+    "static/js/main.cb55a1ae.js"
   ]
 }
