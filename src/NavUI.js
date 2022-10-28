@@ -36,6 +36,7 @@ const NavUI = () => {
                 <div className="content">
                     <Routes>
                         <Route exact path="/" element={<Home />} />
+                        <Route exact path="/aerie" element={<Home />} />
                         <Route exact path="/about" element={<About />} />
                         <Route exact path="/create" element={<Create />} />
                         <Route exact path="/data" element={<Data />} />
